@@ -32,22 +32,3 @@ int	ft_ultimate_range(int **range, int min, int max)
 	}
 	return (max - min);
 }
-
-#include <stdio.h>
-
-/*int	main(void)
-{
-	int	*tab;
-	int	n;
-	int	i;
-
-	n = ft_ultimate_range(&tab, -2, 3);
-	i = 0;
-	while (i < n)
-	{
-		printf("%d\n", tab[i]);
-		i++;
-	}
-	free(tab);
-	return (0);
-}*/
