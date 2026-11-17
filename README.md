@@ -1,12 +1,15 @@
 # Piscine 42
 
-Cursus C de la piscine 42 Lyon (24 août 2026 - 18 septembre 2026).
+English · [Français](README.fr.md)
 
-Le dépôt contient les jours `c00` à `c07`. Un dossier par exercice, un fichier `.c` par fonction.
+C curriculum of the 42 Lyon piscine (August 24, 2026 to September 18, 2026).
+
+The repository contains the days `c00` to `c07`. One folder per exercise,
+one `.c` file per function.
 
 ## c00
 
-Afficher des caractères avec `write`.
+Print characters with `write`.
 
 - `ex00` `ft_putchar`
 - `ex01` `ft_print_alphabet`
@@ -19,7 +22,7 @@ Afficher des caractères avec `write`.
 
 ## c01
 
-Pointeurs, tableaux, chaînes.
+Pointers, arrays, strings.
 
 - `ex00` `ft_ft`
 - `ex01` `ft_ultimate_ft`
@@ -32,7 +35,7 @@ Pointeurs, tableaux, chaînes.
 
 ## c02
 
-Manipuler une chaîne caractère par caractère.
+Handle a string character by character.
 
 - `ex00` `ft_strcpy`
 - `ex01` `ft_strncpy`
@@ -47,7 +50,7 @@ Manipuler une chaîne caractère par caractère.
 
 ## c03
 
-Comparer, coller et chercher dans une chaîne.
+Compare, join and search in a string.
 
 - `ex00` `ft_strcmp`
 - `ex01` `ft_strncmp`
@@ -57,7 +60,7 @@ Comparer, coller et chercher dans une chaîne.
 
 ## c04
 
-Reprendre `strlen`, `putstr`, `putnbr`, puis convertir une chaîne en entier.
+Rebuild `strlen`, `putstr`, `putnbr`, then convert a string to an integer.
 
 - `ex00` `ft_strlen`
 - `ex01` `ft_putstr`
@@ -66,7 +69,7 @@ Reprendre `strlen`, `putstr`, `putnbr`, puis convertir une chaîne en entier.
 
 ## c05
 
-Factorielle, puissance, Fibonacci, racine, nombre premier.
+Factorial, power, Fibonacci, square root, prime number.
 
 - `ex00` `ft_iterative_factorial`
 - `ex01` `ft_recursive_factorial`
@@ -78,7 +81,7 @@ Factorielle, puissance, Fibonacci, racine, nombre premier.
 
 ## c06
 
-Programmes qui lisent `argc` et `argv`.
+Programs that read `argc` and `argv`.
 
 - `ex00` `ft_print_program_name`
 - `ex01` `ft_print_params`
@@ -87,7 +90,7 @@ Programmes qui lisent `argc` et `argv`.
 
 ## c07
 
-Allocation avec `malloc`.
+Allocation with `malloc`.
 
 - `ex00` `ft_strdup`
 - `ex01` `ft_range`
